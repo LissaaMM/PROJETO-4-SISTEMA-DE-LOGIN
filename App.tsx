@@ -56,7 +56,7 @@ const LoginScreen = () => {
         Não tem uma conta? <Text style={styles.signupLink}>Cadastre-se</Text>
       </Text>
 
-      <Text style={styles.footer}>Criado por Daiara Barroso</Text>
+      <Text style={styles.footer}>Criado por Larissa Mendes</Text>
     </View>
   );
 };
